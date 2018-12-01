@@ -14,7 +14,7 @@ checkpoints/
 *.swp
 *.pb
 
-# 后面要补充上的,不然很残缺
+
 ctpn/checkpoints/
 ctpn/data/
 data/
